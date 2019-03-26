@@ -1,12 +1,12 @@
 # Site settings
-title: RPA Campdepadrós 
-email: info@rpacampdepadros.com
-description: > RPA Campdepadrós Project official website
+title:
+email:
+description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://rpacampdepadros.com/
+url: "" # the base hostname & protocol for your site
 
-twitter_username: NA
-github_username: rpacampdepadros
+twitter_username:
+github_username:
 
 # Build settings
 markdown: kramdown
