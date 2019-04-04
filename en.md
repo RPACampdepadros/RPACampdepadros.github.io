@@ -1,3 +1,3 @@
 ---
-/en.html
+en.html
 --- 
